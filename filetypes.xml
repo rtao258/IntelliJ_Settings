@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="in" type="Native" />
       <mapping pattern="text" type="PLAIN_TEXT" />
+      <mapping ext="alexa" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
